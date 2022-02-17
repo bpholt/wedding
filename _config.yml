@@ -1,3 +1,8 @@
-theme: jekyll-theme-slate
-name: ""
-title: null
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
+
+title: "Brian ❤️ Leah"
+description: "Brian & Leah's Irish Wedding Adventure"
+show_downloads: false
+logo: IMG_4099.jpg
