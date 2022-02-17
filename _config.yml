@@ -2,7 +2,10 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
 
-title: "Brian ❤️ Leah"
-description: "Brian & Leah's Irish Wedding Adventure"
+title: "Brian & Leah's Irish Wedding Adventure"
+description: "Brian ❤️ Leah"
 show_downloads: false
 logo: IMG_4099.jpg
+
+github:
+  is_project_page: false

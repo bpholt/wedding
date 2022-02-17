@@ -1,6 +1,8 @@
-<img src="IMG_4099.jpg" alt="Brian and Leah at their first wedding together" style="float: right; width: 200px">
+<dl>
+<dt>When</dt>
+<dd>March 8, 2022</dd>
+<dt>Where</dt>
+<dd><a href="https://www.springfieldcastle.com">Springfield Castle, Ireland</a></dd>
+</dl>
 
-**When**: March 8, 2022
-
-**Where**: [Springfield Castle, Ireland](https://www.springfieldcastle.com)
-
+More information to come!
