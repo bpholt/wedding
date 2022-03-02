@@ -20,3 +20,16 @@
 
 2. The [US government requires a negative test before flying home](https://www.cdc.gov/coronavirus/2019-ncov/travelers/testing-international-air-travelers.html). This test must be taken within 1 day of departure. Testing is availble in Dublin airport. Test can also be an antigen test, BUT must be supervised via telehealth visit. You can [schedule your return testing at Dublin Airport here](https://www.dublinairport.com/covid-19/pre-departure-covid-19-testing)!
 4. A [Passenger Locator Form](https://travel.eplf.gov.ie/en) is required prior to entry.  This can be completed no more than 3 days prior to arrival.
+    - The Passenger Locator Form will ask you for a contact address in Ireland. The address of Springfield Castle is:
+      
+      > Springfield Castle 
+      >
+      > Springfield 
+      >
+      > DROMCOLLOGHER 
+      > 
+      > County Limerick
+      >
+      > P56 DC42
+
+    (You should be able to enter those values into the Passenger Locator Form's contact address form in that order. Dromcollogher is the city name and `P56 DC42` is the Eircode (postal code).
