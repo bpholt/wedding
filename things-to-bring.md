@@ -7,4 +7,5 @@ Waterproof items! It's likely going to rain at least some of the time.  Recommen
 3. Umbrella
 4. Other warm weatherproof clothes - ex. wool or quick dry fabrics
 5. Suitsuit! Our understanding is that the castle has a hot tub!
+6. Driver's license, if you're driving a rental car!
 

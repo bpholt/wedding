@@ -9,4 +9,4 @@
 <dd>Tom Holt</dd>
 </dl>
 
-[Covid-19 Notes](/covid-19) | [Things to Bring](/things-to-bring)
+[Covid-19 Notes](/covid-19) | [Things to Bring](/things-to-bring) | [Food and Drink](/food)
